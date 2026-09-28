@@ -1,0 +1,9 @@
+# данные и кэш не коммитим (кроме весов итоговой модели)
+data/
+test.zip
+cache/*
+!cache/model.pt
+.venv_paddle/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

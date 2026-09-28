@@ -1,0 +1,8 @@
+# Отдельное окружение .venv_paddle (Paddle и torch в одном процессе конфликтуют по CUDA-DLL).
+# paddlepaddle-gpu ставится так: pip install paddlepaddle-gpu==3.2.0 -i https://www.paddlepaddle.org.cn/packages/stable/cu129/
+paddlepaddle-gpu==3.2.0
+paddleocr==3.7.0
+paddlex==3.7.2
+opencv-python-headless==5.0.0.93
+numpy==2.3.5
+pandas==3.0.6
